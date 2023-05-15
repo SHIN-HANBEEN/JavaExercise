@@ -1,6 +1,6 @@
 package exercise;
 
-public class Ex5 {
+public class Ex05 {
 
 	public static void main(String[] args) {
 		// operator 값이 +, -, *, / 인 경우에 사칙 연산을 수행하는 프로그램을 if-else if 문과 switch case 문을 사용해 작성해 보세요.

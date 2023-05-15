@@ -1,6 +1,6 @@
 package exercise;
 
-public class Ex4 {
+public class Ex04 {
 
 	public static void main(String[] args) {
 		// 1부터 더했을 때 합이 500이 넘는 자연수는 얼마인가요?

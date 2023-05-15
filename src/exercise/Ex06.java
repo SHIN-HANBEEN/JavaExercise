@@ -1,6 +1,6 @@
 package exercise;
 
-public class Ex6 {
+public class Ex06 {
 
 	public static void main(String[] args) {
 		// 구구단을 짝수 단만 출력하도록 프로그램을 만들어 보세요. 

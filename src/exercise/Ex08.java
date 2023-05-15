@@ -1,6 +1,6 @@
 package exercise;
 
-public class Ex8 {
+public class Ex08 {
 	
 	public static void main(String[] args) {
 		// 반복문을 사용하여 피라미드 모양을 출력하는 프로그램을 만들어 보세요.
