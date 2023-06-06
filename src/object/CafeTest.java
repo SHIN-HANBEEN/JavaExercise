@@ -12,6 +12,9 @@ public class CafeTest {
 		//카페 인스턴스 생성 (Cafe2 클래스 사용)
 		Cafe2 starCafe = new Cafe2("starCafe");
 		Cafe2 beanCafe = new Cafe2("beanCafe");
+		
+		System.out.println(kim1.hashCode());
+		
 		// 음료 주문 시작 (Cafe2 클래스 사용)
 		kim4.buy(starCafe, Menu.Americano);
 		kim4.buy(beanCafe, Menu.Latte);
